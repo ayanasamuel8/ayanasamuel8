@@ -10,8 +10,8 @@
 ---
 
 ## 💫 About Me 
--👋 Hi, I'm Ayana — a Computer Science & Engineering student at ASTU.
--🔍 I'm passionate about problem-solving, data structures, and building useful tools for real-world challenges.
+- 👋 Hi, I'm Ayana — a Computer Science & Engineering student at ASTU.
+- 🔍 I'm passionate about problem-solving, data structures, and building useful tools for real-world challenges.
 - 🔭 Currently working on [**Telegram Bot Development**](https://github.com/chera-mihiretu/Focus-Project)  
 - 🌱 Exploring **Boost, Machine Learning, and React**  
 - 💬 Ask me about **Flask, Python, Web Development**  
