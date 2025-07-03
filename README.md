@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=00F72E&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Ayana+Samuel!;competitive+programmer;and;backend+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=00F72E&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Ayana+Samuel!;Full-stack+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;DataScientist" alt="Typing SVG" />
 </p>
 
 <!-- Visitor count box placed at top-right corner -->
@@ -9,12 +9,12 @@
 
 ---
 
-## 💫 About Me 
-- 👋 Hi, I'm Ayana — a Computer Science & Engineering student at ASTU.
-- 🔍 I'm passionate about problem-solving, data structures, and building useful tools for real-world challenges.
-- 🔭 Currently working on [**Telegram Bot Development**](https://github.com/chera-mihiretu/Focus-Project)  
-- 🌱 Exploring **Boost, Machine Learning, and React**  
-- 💬 Ask me about **Flask, Python, Web Development**  
+## 💫 About Me  
+- 👋 Hi, I'm **Ayana Samuel** — a Computer Science & Engineering student at **ASTU**, Ethiopia 🇪🇹  
+- 🧠 Passionate about **problem-solving, full-stack systems**, and building tools that solve real-world problems  
+- 🔭 Currently working on:
+  - 🧮 **Credit Risk Prediction Model** (10 Academy) – ML pipeline, FastAPI deployment, CI/CD with GitHub Actions  
+- 🌱 Exploring **MLOps**, **Docker**, and scalable **system design**  
 - 📫 Reach me at **ayanasamuel8@gmail.com**  
 - 📄 View my [**Resume**](https://flowcv.com/resume/hbkidg3tfe)  
 
@@ -39,24 +39,40 @@
 ---
 
 ## 💻 Tech Stack  
-### 🚀 Programming Languages  
-<img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts" />  
 
-### 🌐 Web Development  
-<img src="https://skillicons.dev/icons?i=html,css,react,flask,nodejs,tailwind,bootstrap" />  
+### 🚀 Languages  
+<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,java" />  
+
+### 🌐 Frontend & Web  
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />  
+
+### 🧠 Backend & API  
+<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,express" />  
+
+### 🧰 Tools & DevOps  
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma,vercel,jest,cmake,Railway" />  
+<img src="https://img.shields.io/badge/Railway-0B0D0D?style=for-the-badge&logo=railway&logoColor=white" />
+
+### 🔍 Data & ML  
+
+<p>
+  <!-- Use Shields.io for libraries not supported by skillicons -->
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0175C2?style=for-the-badge&logo=mlflow&logoColor=white" />
+</p>
 
 ### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,sqlite" />  
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-
-### 🔧 Tools & Technologies  
-<img src="https://skillicons.dev/icons?i=git,github,postman,cmake" />  
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanasamuel8&theme=dark&hide_border=true&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanasamuel8&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /><br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanasamuel8&theme=dark&layout=compact&hide_border=true" />
   <img height="180em" src="https://streak-stats.demolab.com/?user=ayanasamuel8&theme=dark&hide_border=true" />
 </p>
