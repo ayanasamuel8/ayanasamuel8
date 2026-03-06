@@ -6,17 +6,6 @@
 </div>
 <div align="center">
 
-<!-- Reliable Visitor Counter (komarev) -->
-
-
-<br/><br/>
-
-<!-- Circular Dynamic Profile Avatar -->
-
-<a href="https://ayanasamuel.dev" target="_blank">
-  <img src="https://wsrv.nl/?url=github.com/ayanasamuel8.png&amp;w=150&amp;h=150&amp;fit=cover&amp;mask=circle" alt="Ayana Samuel" />
-</a>
-
 <br/><br/>
 
 <!-- Main Greeting -->
