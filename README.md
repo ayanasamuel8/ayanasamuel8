@@ -5,9 +5,6 @@
 
 </div>
 <div align="center">
-
-<br/><br/>
-
 <!-- Main Greeting -->
 
 <h1>
