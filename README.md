@@ -83,85 +83,6 @@ runtime:
 
 ---
 
-## ⚡ `automation.engine` — Powered by n8n
-
-<div align="center">
-
-> **"Don't just build features. Build systems that build themselves."**
-
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    AUTOMATION PIPELINE v2.0                     │
-│                                                                 │
-│  [Trigger] ──► [n8n Orchestrator] ──► [AI Node] ──► [Action]   │
-│      │               │                    │             │       │
-│   webhook         route &             Claude /        Slack /   │
-│   cron job        transform           GPT-4          DB / API   │
-│   API call        branch              vision         Email      │
-│                                                                 │
-│  Status: ██████████████████████  RUNNING  ✓ 0 errors           │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### What I automate for clients 👇
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center">
-
-**🔁 Business Workflows**
-
-Lead capture → CRM → email sequences → follow-ups. Zero manual steps.
-
-</td>
-<td width="25%" align="center">
-
-**🤖 AI Pipelines**
-
-LLM chains, document processing, auto-classification with n8n + OpenAI/Claude nodes.
-
-</td>
-<td width="25%" align="center">
-
-**📊 Data Sync**
-
-Real-time pipelines between 400+ apps — Airtable, Notion, Sheets, Postgres, REST APIs.
-
-</td>
-<td width="25%" align="center">
-
-**🚀 DevOps Triggers**
-
-Deploy hooks, monitoring alerts, CI/CD notifications, Slack bots — fully automated.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<br/>
-
-![n8n](https://img.shields.io/badge/n8n-EA6B00?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Webhook](https://img.shields.io/badge/Webhooks-00ff88?style=for-the-badge&logo=webhooks&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff88)
-
-</div>
-
----
-
 ## `kernel.capabilities` — Full Tech Arsenal
 
 <div align="center">
@@ -235,13 +156,6 @@ Deploy hooks, monitoring alerts, CI/CD notifications, Slack bots — fully autom
 
 <br/>
 
-<a href="https://leetcode.com/ayanasamuel8/" target="_blank">
-<img src="https://leetcard.jacoblin.cool/ayanasamuel8?theme=dark&amp;font=Space%20Grotesk&amp;ext=activity" alt="LeetCode Stats" />
-</a>
-
-
-<br/><br/>
-
 <a href="https://leetcode.com/ayanasamuel8" target="_blank">
   <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
@@ -250,18 +164,6 @@ Deploy hooks, monitoring alerts, CI/CD notifications, Slack bots — fully autom
   <img src="https://img.shields.io/badge/CODEFORCES-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
-
-</div>
-
----
-
-## `trophy.json` — Achievements Unlocked
-
-<div align="center">
-
-<a href="https://github.com/ayanasamuel8">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayanasamuel8&theme=matrix&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies" />
-</a>
 
 </div>
 
